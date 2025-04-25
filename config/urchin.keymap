@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2025 010011010100000101010011
- * Finnish layout for Urchin keyboard. forked from the original Italian layout by duckyb.
+ * Finnish layout for Urchin keyboard. Forked from the original Italian layout by duckyb.
  *
  * SPDX-License-Identifier: MIT
  */
@@ -74,7 +74,7 @@
 			bindings = <&mo SETTINGS>;
 		};
 		// left index & middle fingers (home-row)
-		// hold control & space for Adobe workflow
+		// testing space as a homerow combo
 		combo_ctrl_space {
 			timeout-ms = <200>;
 			key-positions = <12 13>;
