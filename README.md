@@ -1,4 +1,4 @@
-Firmware for: [Urchin Keyboard](https://github.com/duckyb/urchin)
+Finnish keymap firmware for: [Urchin Keyboard](https://github.com/duckyb/urchin)
 
 ## Getting started
 
