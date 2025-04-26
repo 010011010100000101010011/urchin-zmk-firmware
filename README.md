@@ -9,7 +9,8 @@ Download the firmware zip from the latest action run. Check [the ZMK docs](https
 
 This layout is inspired by duckyb's Italian layout for the Urchin
   
-  ![UrchinFI ](https://github.com/user-attachments/assets/7024ecab-f71f-4390-a13e-bfbffa0a9410)
+![Urchin_FI_layout drawio](https://github.com/user-attachments/assets/06ffd9a6-0d84-41e1-8240-2e509c1d86de)
+
 
 
 </div>
