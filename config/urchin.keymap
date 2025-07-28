@@ -16,7 +16,7 @@
 #define EXT 2
 #define FNC 3
 #define SYM2 4
-#define ACCENT 5
+#define MEDIA 5
 #define SETTINGS 6
 // -----------------
 
@@ -180,8 +180,8 @@
 			>;
 		};
 
-		// Used to type regional accents.
-		accent_layer {
+		// Used to control media players.
+		media_layer {
 			label = "Media";
 			bindings = <
 			//╭─────────┬─────────┬──────────┬─────────┬─────────╮   ╭─────────┬─────────┬─────────┬─────────┬─────────╮
