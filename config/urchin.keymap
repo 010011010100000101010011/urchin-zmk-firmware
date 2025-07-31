@@ -137,8 +137,8 @@
        			//│   Undo  │    Cut   │   Copy   │   TAB    │  Paste  │   │ DelWord  │ Backspace│          │          │          │
 			   &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp TAB   &kp LC(V)    &kp LC(BSPC) &kp BSPC    &trans     &trans     &trans
 			//╰──────────┴───────────┴───────┼──────────┼──────────┤   ├───────────┼─────────┼──────────┴──────────┴──────────╯
-							    &trans    &kp LCTRL      &kp trans  &mo FNC 
-			//                               ╰──────────┴──────────╯   ╰───────────┴────────╯
+							    &trans    &kp LCTRL      &trans     &mo FNC 
+			//                               ╰──────────┴──────────╯   ╰───────────┴─────────╯
 			>;
 		};
 
